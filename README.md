@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **anything, honestly.**
 
-- 🤝 I’m looking for help with **my life.**
+- 🤝 I’m looking for help with **purchasing a new toaster oven.**
 
-- ⚡ Fun fact **I performed stand-up in college. Wasn't terribly funny, but they kept letting me perform, so...ample public speaking experience.**
+- ⚡ Fun fact **I performed stand-up in college. Wasn't terribly funny, but they kept inviting me back, so...ample public speaking experience.**
 
 
 <h3 align="left">Languages and Tools:</h3>
