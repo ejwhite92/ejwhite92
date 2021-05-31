@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik!</h1>
-<h3 align="center">Frontend web developer with a passion for machine learning and fuzzy little dogs.</h3>
+<h3 align="center">Frontend developer with a passion for machine learning and fuzzy little dogs.</h3>
 <br>
 
 <img align='right' src='https://user-images.githubusercontent.com/82545797/120125456-bbb92080-c16d-11eb-8343-b99d69d0ce47.png'>
