@@ -14,7 +14,9 @@
 
 - ⚡ Fun fact **I performed stand-up in college. Wasn't terribly funny, but they kept inviting me back, so...ample public speaking experience.**
 <br>
+<br>
 <hr>
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ejwhite92&show_icons=true&locale=en" alt="ejwhite92" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejwhite92&show_icons=true&locale=en&layout=compact" alt="ejwhite92" /></p>
 <br>
