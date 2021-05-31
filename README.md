@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a machine learning engineering bootcamp.**
 
-- 🌱 I’m currently learning **Tensorflow with JS and Python.**
+- 🌱 I’m currently learning **Kaboom!**
 
 - 👯 I’m looking to collaborate on **anything, honestly.**
 
